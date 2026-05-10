@@ -19,8 +19,10 @@ A narrative-driven technical demo developed in Unreal Engine 5. This project sho
 * Version Control: Git LFS
 
 ## 📺 Demo Video
-https://www.youtube.com/watch?v=DCGjW0RueIM
+https://www.youtube.com/watch?v=FuzwaccwYOE
 > *Watch the showcase of narrative mechanics and gameplay flow.*
+## 📺Full Playthrough
+https://www.youtube.com/watch?v=679r-xNDizk
 
 ---
 ## 👤 About Me
